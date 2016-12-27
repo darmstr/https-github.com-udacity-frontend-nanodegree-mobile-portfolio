@@ -1,7 +1,7 @@
 # Website Performance Optimization portfolio project
 
 ## Steps to run the site
-* Go to the Github hosted page https://darmstr.github.io/mobile-portfolio/views/pizza.html
+* Go to the Github hosted page https://darmstr.github.io/mobile-portfolio/
 * Site should be up and running
 * If the Github hosted page doesn't work you can download the project files from the Github repository and open index.html
 
